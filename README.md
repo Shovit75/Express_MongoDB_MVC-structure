@@ -1,1 +1,1 @@
-Simple MVC structure for easy coding in Node.js using Express.js and MongoDB
+<h2>Simple MVC structure for easy setup in Node.js using Express.js and MongoDB</h2>
